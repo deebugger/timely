@@ -43,7 +43,7 @@
         <version.caffeine>2.3.3</version.caffeine>
         <version.collectd>5.5.1</version.collectd>
         <version.commons-collections4>4.1</version.commons-collections4>
-        <version.commons-lang3>3.5</version.commons-lang3>
+        <version.commons-lang3>3.12.0</version.commons-lang3>
         <version.disruptor>3.3.6</version.disruptor>
         <version.fast-classpath-scanner>2.0.5</version.fast-classpath-scanner>
         <version.google-flatbuffers>1.4.0</version.google-flatbuffers>
